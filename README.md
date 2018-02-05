@@ -1,2 +1,2 @@
 # alpine_stress_image
-alpine image with stree
+alpine image with stress
